@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100;1,400;1,700&display=swap');
+
+*{
+  font-family: 'Roboto', sans-serif;
+}
+table, th, tr, td {
+  padding: 5px;
+  border: 1px solid black;
+}
+.Gtable{
+  margin: 2%;
+}
+.hide{
+  visibility: hidden;
+}
