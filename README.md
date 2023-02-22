@@ -1,5 +1,10 @@
 # Grievance-Portal
-A protal where users can file complaints and get real time updates via registered email. Sendgrid, JWT Authentication, Password hashing, are some of the features.\
+A protal where users can file complaints and get real time updates via registered email.\
+Major features:
+1.Sendgrid 
+2.JWT Authentication 
+3.Password hashing
+
 This project is best to show in your college as project.
 
 # Frontend
