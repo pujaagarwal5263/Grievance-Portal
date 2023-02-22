@@ -1,5 +1,5 @@
 # Grievance-Portal
-A protal where users can file complaints and get real time updates via registered email.\
+A protal where users can file complaints and get real time updates via registered email.
 
 Major features:
 1. Sendgrid 
